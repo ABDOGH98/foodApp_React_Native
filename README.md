@@ -1,5 +1,5 @@
 # Food App - React Native
-## tools : React Native - Yelp api - Redux 
+## tools : React Native - Yelp api - Redux - React Navigation
 
 ![1](https://user-images.githubusercontent.com/63199884/134940708-9aa4e41c-5a31-487a-a388-40024c8e9146.jpg)
 ![2](https://user-images.githubusercontent.com/63199884/134940713-7cef17e4-37fc-4508-85ad-3b8dee93e7e3.jpg)
